@@ -1,0 +1,15 @@
+D:\cod4Bot_mpgh.net\bin\Debug\net6.0\cod4Bot_mpgh.net.exe
+D:\cod4Bot_mpgh.net\bin\Debug\net6.0\cod4Bot_mpgh.net.deps.json
+D:\cod4Bot_mpgh.net\bin\Debug\net6.0\cod4Bot_mpgh.net.runtimeconfig.json
+D:\cod4Bot_mpgh.net\bin\Debug\net6.0\cod4Bot_mpgh.net.dll
+D:\cod4Bot_mpgh.net\bin\Debug\net6.0\cod4Bot_mpgh.net.pdb
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.csproj.AssemblyReference.cache
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.GeneratedMSBuildEditorConfig.editorconfig
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.AssemblyInfoInputs.cache
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.AssemblyInfo.cs
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.csproj.CoreCompileInputs.cache
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.dll
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\refint\cod4Bot_mpgh.net.dll
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.pdb
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\cod4Bot_mpgh.net.genruntimeconfig.cache
+D:\cod4Bot_mpgh.net\obj\Debug\net6.0\ref\cod4Bot_mpgh.net.dll
